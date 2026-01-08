@@ -1,0 +1,8 @@
+{
+  "DSA_MONEY": {
+    "OptimizedNotification": "{name}: Geld umgerechnet → {gold}D, {silver}S, {copper}H, {nickel}K",
+    "InsufficientFunds": "Nicht genug Geld! Transaktion abgebrochen.",
+    "ShowNotifications": "Benachrichtigungen anzeigen",
+    "ShowNotificationsHint": "Zeigt eine Benachrichtigung, wenn Münzen automatisch umgerechnet wurden"
+  }
+}
