@@ -17,11 +17,12 @@ A currency management utility for the "goodys dsa4.1 core" system (gdsa) in Foun
 
 Simply install and enable the module. It works automatically in the background for all Actors of type "PlayerCharakter" within the `gdsa` system.
 
-## Settings
+## 🔧 Settings
 
 - **Show Notifications**: Toggle to enable/disable the "Money Optimized" pop-up messages.
 
 ## 🚀 Installation
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-gdsa-exchange-office/releases/latest/download/module.json`
+
 
