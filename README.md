@@ -25,4 +25,6 @@ Simply install and enable the module. It works automatically in the background f
 
 - **Manifest URL**: `https://github.com/GeanoFee/geanos-gdsa-exchange-office/releases/latest/download/module.json`
 
-
+---
+## License
+This module is licensed under the [MIT License](LICENSE).
