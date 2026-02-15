@@ -3,6 +3,8 @@
     "OptimizedNotification": "{name}: Geld umgerechnet → {gold}D, {silver}S, {copper}H, {nickel}K",
     "InsufficientFunds": "Nicht genug Geld! Transaktion abgebrochen.",
     "ShowNotifications": "Benachrichtigungen anzeigen",
-    "ShowNotificationsHint": "Zeigt eine Benachrichtigung, wenn Münzen automatisch umgerechnet wurden"
+    "ShowNotificationsHint": "Zeigt eine Benachrichtigung, wenn Münzen automatisch umgerechnet wurden",
+    "ConfirmExchange": "Soll das Geld von {name} jetzt optimiert werden?",
+    "AlreadyOptimized": "Das Geld ist bereits optimal verteilt."
   }
 }
